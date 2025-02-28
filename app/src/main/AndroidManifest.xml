@@ -13,12 +13,6 @@
         android:theme="@style/Theme.ProyectodeClase"
         tools:targetApi="31">
         <activity
-            android:name=".VerContactos"
-            android:exported="false" />
-        <activity
-            android:name=".Menu"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
